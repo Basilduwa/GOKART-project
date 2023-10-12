@@ -1,4 +1,7 @@
 # GOKART-project
+![image](https://github.com/Basilduwa/GOKART-project/assets/145977786/e12d7096-7bf2-4d7a-b032-d1dd0b340f6a)
+
+
 This project is to perform Exploratory Analysis and identify if there are important features that determine whether a product whether or not gets delivered on time and build a predictive model that can determine the arrival time of any product.
 ## COMPANY OVERVIEW
 GoKart is an international e-commerce enterprise based in Nigeria. It offers a diverse range of products through its online platform, catering to a widespread international audience.
