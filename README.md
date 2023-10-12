@@ -9,4 +9,10 @@ The goal of this project is to perform Exploratory Analysis and identify if ther
 ## DATA SOURCE
 The data was provided by 10alytics.
 ## DATA PREPROCESSING
+Machine learning preprocessing was performed before introducing the machine learning models. These processes involved missing values, scaling features, and class imbalance.
+## MACHINE LEARNING MODELS.
+This project involves building supervised ML models. The training and testing dataset was split. The classification models used were; -Logistic regression -Random Forest -Decision Tree
+## EVALUATION METRICS
+The performance was evaluated using the following Machine learning models; -Precision: The proportion of correctly identifying transactions among all transactions classified. -Recall: Proportion of correctly identifying arrival time of any product -F1 score: The harmonic mean of precision and recall, providing a balanced metric for model evaluation.
+
 
